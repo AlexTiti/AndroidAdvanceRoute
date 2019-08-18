@@ -18,7 +18,7 @@
 8. [Android进阶知识树——Android四大组件启动过程](https://blog.csdn.net/Alexwll/article/details/99321808)
 9.  Android进阶知识树——组件化
 10. Android进阶知识树——Gradle基础
-11. Android进阶知识树——Jni
+11. [Android进阶知识树——JNI基础知识和So库创建](https://blog.csdn.net/Alexwll/article/details/99703403)
 12. Android进阶知识树—项目安全
 
  - Android 热修复
@@ -30,9 +30,8 @@
  -  Android 插件化
  1. [Android 插件化——Java动态代理](https://blog.csdn.net/Alexwll/article/details/82898320)
  2. [Android插件化——Hook技术](https://blog.csdn.net/Alexwll/article/details/99204450)
- 3. Android插件化——Context机制
- 4. Android插件化——Resource资源加载机制
- 5. [Android插件化——VirtualAPK接入与源码分析](https://blog.csdn.net/Alexwll/article/details/99301652)
+ 3. [Android插件化——Context机制](https://blog.csdn.net/Alexwll/article/details/99209684)
+ 4. [Android插件化——VirtualAPK接入与源码分析](https://blog.csdn.net/Alexwll/article/details/99301652)
  
 ## 开源框架源码分析
 
