@@ -24,8 +24,8 @@
  - Android 热修复
  
  1. [Android热修复之路（一）——ClassLoader](https://blog.csdn.net/Alexwll/article/details/90246970)
- 2. [Androdi热修复之路(二) —— Multidex 分包原理](https://blog.csdn.net/Alexwll/article/details/90756449)
- 3. [Androdi热修复之路(三) ——Tinker 源码分析](https://blog.csdn.net/Alexwll/article/details/99198697)
+ 2. [Android热修复之路(二) —— Multidex 分包原理](https://blog.csdn.net/Alexwll/article/details/90756449)
+ 3. [Android热修复之路(三) ——Tinker 源码分析](https://blog.csdn.net/Alexwll/article/details/99198697)
  
  -  Android 插件化
  1. [Android 插件化——Java动态代理](https://blog.csdn.net/Alexwll/article/details/82898320)
