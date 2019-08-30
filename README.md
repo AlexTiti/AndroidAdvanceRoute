@@ -19,7 +19,7 @@
 9.  [Android进阶知识树——组件化](https://blog.csdn.net/Alexwll/article/details/100097118)
 10. Android进阶知识树——Gradle基础
 11. [Android进阶知识树——JNI基础知识和So库创建](https://blog.csdn.net/Alexwll/article/details/99703403)
-12. Android进阶知识树—项目安全
+12. [Android进阶知识树—项目安全](https://blog.csdn.net/Alexwll/article/details/99704572)
 
  - Android 热修复
  
