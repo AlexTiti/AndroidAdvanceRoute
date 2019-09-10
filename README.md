@@ -2,7 +2,7 @@
 
 本项目为知识总结笔记项目，主要记录自己这几年对Android开发和学习过程中收获和感受，对于博客前期真的没有坚持下来，但在学习过程中还是
 有记笔记习惯，个人印象笔记上累计篇数200+，后面陆续会找时间整理到博客上并添加到此项目，算是对知识的复习也希望能为有需要的同学节省点时间，文章中
-不足之处，还望大家见谅，共同探讨共同进步；
+不足之处，还望大家见谅，希望借此项目共同探讨共同进步；
 
 ## Android 高级必备知识
 
@@ -16,8 +16,8 @@
 6. [Android进阶知识树——AsyncTask的使用和源码分析](https://blog.csdn.net/Alexwll/article/details/82049567)
 7. [Android进阶知识树——Window & ViewRootImpl](https://blog.csdn.net/Alexwll/article/details/86615539)
 8. [Android进阶知识树——Android四大组件启动过程](https://blog.csdn.net/Alexwll/article/details/99321808)
-9.  [Android进阶知识树——组件化](https://blog.csdn.net/Alexwll/article/details/100097118)
-10. Android进阶知识树——Gradle基础
+9.  [Android进阶知识树——设计模式](https://blog.csdn.net/Alexwll/article/details/100538754)
+10. [Android进阶知识树——组件化](https://blog.csdn.net/Alexwll/article/details/100097118)
 11. [Android进阶知识树——JNI基础知识和So库创建](https://blog.csdn.net/Alexwll/article/details/99703403)
 12. [Android进阶知识树—项目安全](https://blog.csdn.net/Alexwll/article/details/99704572)
 
@@ -49,18 +49,6 @@
  12. [Android框架源码分析——Glide缓存机制源码分析](https://blog.csdn.net/Alexwll/article/details/94056306)
  13. [Android框架源码分析——EventBus](https://blog.csdn.net/Alexwll/article/details/89521502)
  14. [Android框架源码分析——以Arouter为例谈谈学习开源框架的最佳姿势](https://blog.csdn.net/Alexwll/article/details/85466069)
-
-## Kotlin
-
-1. [kotlin系列一----对象的声明与创建](https://blog.csdn.net/Alexwll/article/details/78997083)
-2. [Kotlin系列二----控制语句及Kotlin Koans试题](https://blog.csdn.net/Alexwll/article/details/79189719)
-3. [Kotlin系列三----类 和 函数](https://blog.csdn.net/Alexwll/article/details/79236603)
-4. [Kotlin系列四----泛型](https://blog.csdn.net/Alexwll/article/details/79267153)
-5. [Kotlin系列五----数据类、密封类、内部类](https://blog.csdn.net/Alexwll/article/details/79277555)
-6. [Kotlin系列六----函数](https://blog.csdn.net/Alexwll/article/details/79278275)
-7. [Kotlin系列七----属性和对象](https://blog.csdn.net/Alexwll/article/details/79284658)
-8. [Kotlin系列八----委托](https://blog.csdn.net/Alexwll/article/details/79604628)
-9. [Kotlin系列九----解构声明、集合](https://blog.csdn.net/Alexwll/article/details/79692082)
 
 ##  Android Jepack
 
