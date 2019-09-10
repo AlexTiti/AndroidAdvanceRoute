@@ -18,7 +18,7 @@
 9.  [Android进阶知识树——23种设计模式详解](https://blog.csdn.net/Alexwll/article/details/100538754)
 10. [Android进阶知识树——组件化技术](https://blog.csdn.net/Alexwll/article/details/100097118)
 11. [Android进阶知识树——JNI基础知识和So库创建](https://blog.csdn.net/Alexwll/article/details/99703403)
-12. [Android进阶知识树—应用安全基础篇](https://blog.csdn.net/Alexwll/article/details/99704572)
+12. [Android进阶知识树——应用安全基础篇](https://blog.csdn.net/Alexwll/article/details/99704572)
 13. [Android进阶知识树——Android系统的启动过程](https://blog.csdn.net/Alexwll/article/details/100133524)
 14. [Android进阶知识树——应用进程的启动过程](https://blog.csdn.net/Alexwll/article/details/100133553)
 15. [Android进阶知识树——理解系统服务WindowManagerService](https://blog.csdn.net/Alexwll/article/details/100161194)
@@ -26,14 +26,14 @@
 
  - Android 热修复
 
- 1. [Android热修复之路（一）——ClassLoader](https://blog.csdn.net/Alexwll/article/details/90246970)
- 2. [Android热修复之路(二) —— Multidex 分包原理](https://blog.csdn.net/Alexwll/article/details/90756449)
- 3. [Android热修复之路(三) ——Tinker 源码分析](https://blog.csdn.net/Alexwll/article/details/99198697)
+ 1. [Android热修复之路——ClassLoader详解](https://blog.csdn.net/Alexwll/article/details/90246970)
+ 2. [Android热修复之路——理解Multidex分包原理](https://blog.csdn.net/Alexwll/article/details/90756449)
+ 3. [Android热修复之路——热修复框架Tinker源码分析](https://blog.csdn.net/Alexwll/article/details/99198697)
  
  -  Android 插件化
  1. [Android 插件化——Java动态代理](https://blog.csdn.net/Alexwll/article/details/82898320)
  2. [Android插件化——Hook技术](https://blog.csdn.net/Alexwll/article/details/99204450)
- 3. [Android插件化——Context机制](https://blog.csdn.net/Alexwll/article/details/99209684)
+ 3. [Android插件化——深入理解Context机制](https://blog.csdn.net/Alexwll/article/details/99209684)
  4. [Android插件化——VirtualAPK接入与源码分析](https://blog.csdn.net/Alexwll/article/details/99301652)
  
 ## 开源框架源码分析
